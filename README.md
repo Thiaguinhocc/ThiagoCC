@@ -1,4 +1,4 @@
-## Oiii eu sou Thiago Carvalho, Estudante em Análise e desenvolvimento de sistemas e apaixonado por Técnologia
+## Oiii eu sou Thiago Carvalho, Estudante em Análise e desenvolvimento de sistemas, Engenheiro cívil e apaixonado por Técnologia
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiaguinhocc&show_icons=true&theme=radical)
 
